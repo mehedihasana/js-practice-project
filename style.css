@@ -3,8 +3,16 @@
     font-family: Gotham Rounded, sans-serif;
   }
   
+  /* #proj{
+    text-align:left;
+    display: flex;
+    margin-top: 70%;
+    font-size: 20px;
+    font-family: arial black;
+
+} */
   body {
-    background: linear-gradient(to right, rgb(216, 144, 12), hsl(24, 47%, 75%));
+    background: linear-gradient(to right, rgb(216, 144, 12), hsl(24, 90%, 48%));
     display: flex;
     justify-content: center; 
    
@@ -13,6 +21,7 @@
     min-height: 100vh;
     overflow: hidden;
   }
+ 
   
   .clock {
     width: 300px;
